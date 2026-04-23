@@ -10,7 +10,7 @@ Carrito de compras – JPetStore
 22/04/2026 – (Duración: 45 minutos)
 
 ## TESTER
-José Fernando Paniagua Benitez
+Mauricio Amarilla
 
 ## DESGLOSE DE TAREAS
 - 25 min: Incorporación de productos al carrito desde diferentes categorías, tanto con sesión iniciada como sin autenticación
